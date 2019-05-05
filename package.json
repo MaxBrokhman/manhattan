@@ -2,6 +2,7 @@
   "name": "case2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://maxbrohman.github.io/case2/",
   "dependencies": {
     "@craco/craco": "^5.0.2",
     "cesium": "^1.57.0",

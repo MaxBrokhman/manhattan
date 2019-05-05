@@ -40,7 +40,6 @@ export default class App extends React.Component {
 
     //add or remove geojson data from viewer, data stays in data property
     onButtonClick(id){
-
         let dataToToggle;
         
         this.data.forEach(item => {

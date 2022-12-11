@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://maxbrohman.github.io/case2/",
   "dependencies": {
-    "@craco/craco": "^5.0.2",
+    "@craco/craco": "^5.9.0",
     "cesium": "^1.57.0",
     "craco-cesium": "^1.0.0",
     "react": "^16.8.6",
